@@ -49,7 +49,7 @@ Entrambe le implementazioni eseguono gli stessi calcoli di base:
    ```
 
 2. Posizionare i file dati richiesti nella stessa directory degli script:
-   - File dati atmosferici (`input_atmosfera.mat` o `atmos_data4.mat`)
+   - File dati atmosferici (`input_atmosfera.mat` e `atmos_data4.mat`)
    - File dati HITRAN (tutti i file .txt)
 
 ## Utilizzo
