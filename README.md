@@ -43,17 +43,12 @@ Entrambe le implementazioni eseguono gli stessi calcoli di base:
 
 ## Installazione
 
-1. Clonare questo repository:
-   ```bash
-   git clone <URL-del-repository>
-   ```
-
-2. Installare le dipendenze Python (se si usa la versione Python):
+1. Installare le dipendenze Python (se si usa la versione Python):
    ```bash
    pip install numpy matplotlib scipy
    ```
 
-3. Posizionare i file dati richiesti nella stessa directory degli script:
+2. Posizionare i file dati richiesti nella stessa directory degli script:
    - File dati atmosferici (`input_atmosfera.mat` o `atmos_data4.mat`)
    - File dati HITRAN (tutti i file .txt)
 
