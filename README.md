@@ -1,6 +1,6 @@
 # Modello di Trasferimento Radiativo Atmosferico
 
-Questo repository contiene implementazioni in MATLAB e Python di un modello di trasferimento radiativo atmosferico che calcola la radianza atmosferica utilizzando dati spettroscopici HITRAN. Il tutto finalizzato alla realizzazione del progetto per il corso di Metodi e Tecniche per l'Osservazione della Terra (Ingegneria Informatica e delle tecnologie dell'informazione - UNIBAS -), a cura del dott. Giuliano Liuzzi.
+Questo repository contiene implementazioni in MATLAB e Python di un modello di trasferimento radiativo atmosferico che calcola la radianza atmosferica utilizzando dati spettroscopici HITRAN. Il tutto finalizzato alla realizzazione del progetto per il corso di Metodi e Tecniche per l'Osservazione della Terra (LM Ingegneria Informatica e delle tecnologie dell'informazione UNIBAS ), a cura del dott. Giuliano Liuzzi.
 
 ## Panoramica
 
