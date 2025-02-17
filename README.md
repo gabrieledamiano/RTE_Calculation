@@ -59,7 +59,7 @@ Entrambe le implementazioni eseguono gli stessi calcoli di base:
 2. Navigare alla directory del progetto
 3. Eseguire lo script:
    ```matlab
-   >> run_atmosphere_model
+   >> trasferimento_radiativo_script.m
    ```
 
 ### Versione GUI Python
@@ -67,7 +67,7 @@ Entrambe le implementazioni eseguono gli stessi calcoli di base:
 2. Navigare alla directory del progetto
 3. Eseguire lo script Python:
    ```bash
-   python atmospheric_gui.py
+   python trasferimento_radiativo_gui.py
    ```
 4. Utilizzare la GUI per:
    - Caricare il file dati atmosferici
